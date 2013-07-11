@@ -1,0 +1,11 @@
+<?php defined('WTHR') OR die('No direct script access.');
+
+return array (
+	//Coordinates
+	'latitude'   => 55.7522200,
+	'longtitude' => 37.6155600,
+	'altitude'   => 151,
+	
+	'caching' 	 => TRUE,
+	'time'		 => array(3, 15, 21),
+);
